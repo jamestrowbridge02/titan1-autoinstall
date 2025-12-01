@@ -1,6 +1,8 @@
 #!/bin/bash
 # Titan-1 Ultimate Installer + Fully Automated Daily Updates
 
+chmod +x ultimate_install_autoupdate.sh
+
 set -e
 
 # ---------------- CONFIGURATION ------------------
