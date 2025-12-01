@@ -6,12 +6,12 @@ chmod +x ultimate_install_autoupdate.sh
 set -e
 
 # ---------------- CONFIGURATION ------------------
-TITAN_BUNDLE_URL="<TITAN_BUNDLE_URL>"   # Titan-1 v5.2 bundle URL
+TITAN_BUNDLE_URL="<https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/titan1_v5.2_bundle.tar.gz>"
 DOMAIN="<YOUR_DOMAIN_HERE>"
-EMAIL="<YOUR_EMAIL_HERE>"
+EMAIL="<Jamestrowbridge02@gmail.com>"
 INSTALL_DIR="$HOME/titan1-docker"
-TELEGRAM_BOT_TOKEN="<BOT_TOKEN>"
-TELEGRAM_CHAT_ID="<CHAT_ID>"
+TELEGRAM_BOT_TOKEN="<8496293161:AAEZphPqg4SCX81PqQ-qisLCX8FDP1n4Dlg>"
+TELEGRAM_CHAT_ID="<7903008196>"
 SLACK_WEBHOOK_URL="<SLACK_WEBHOOK_URL>"
 
 # ---------------- DEPENDENCIES -------------------
