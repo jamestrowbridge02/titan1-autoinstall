@@ -6,7 +6,7 @@ chmod +x ultimate_install_autoupdate.sh
 set -e
 
 # ---------------- CONFIGURATION ------------------
-TITAN_BUNDLE_URL="<https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/titan1_v5.2_bundle.tar.gz>"
+TITAN_BUNDLE_URL="https://github.com/jamestrowbridge02/titan1-autoinstall/archive/refs/heads/master.zip"
 DOMAIN="<YOUR_DOMAIN_HERE>"
 EMAIL="<Jamestrowbridge02@gmail.com>"
 INSTALL_DIR="$HOME/titan1-docker"
