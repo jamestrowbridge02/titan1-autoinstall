@@ -7,10 +7,10 @@ set -e
 
 # ---------------- CONFIGURATION ------------------
 TITAN_BUNDLE_URL="https://github.com/jamestrowbridge02/titan1-autoinstall/archive/refs/heads/master.zip"
-DOMAIN="<YOUR_DOMAIN_HERE>"
+DOMAIN="<http://mytitan.co.uk/>"
 EMAIL="<Jamestrowbridge02@gmail.com>"
 INSTALL_DIR="$HOME/titan1-docker"
-TELEGRAM_BOT_TOKEN="<8496293161:AAEZphPqg4SCX81PqQ-qisLCX8FDP1n4Dlg>"
+TELEGRAM_BOT_TOKEN="<8496293161:AAEfImu3wn6Obup0ai-7QwllvsVYx7DgLeU>"
 TELEGRAM_CHAT_ID="<7903008196>"
 SLACK_WEBHOOK_URL="<SLACK_WEBHOOK_URL>"
 
